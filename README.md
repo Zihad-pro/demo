@@ -1,3 +1,3 @@
 # Demo
 This my frist Git Repository .
-Mohammad zihad hasan
+Author -Mohammad zihad hasan
